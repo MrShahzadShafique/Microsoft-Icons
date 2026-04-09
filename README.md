@@ -8,8 +8,8 @@
 
 [Power Platform](https://learn.microsoft.com/en-us/power-platform/guidance/icons)
 
-[Viva (courtesy of Viva Explorers)](https://github.com/Viva-Explorers/Viva-Icons)
+[Viva](https://github.com/Viva-Explorers/Viva-Icons)
 
-[Microsoft Branding Guidelines](https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/branding)
+[Microsoft 365 Branding Guidelines](https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/branding)
 
 **Disclaimer:** I do not work for Microsoft, do not claim copyright or ownership of any of these files. All logos are the property of Microsoft Corporation.
